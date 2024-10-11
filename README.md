@@ -21,15 +21,15 @@ description, humidity, and wind speed.
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/yourusername/simple-weather-app.git
 
-   ```
+```
 
 2. Install dependencies:
 
 ```bash
-  npm install
+npm install
 
 ```
 
